@@ -35,6 +35,11 @@
   align-items: center;
 }
 
+.card {
+  width: 500px;
+  height: 500px;
+}
+
 .title a {
   color: #0070f3;
   text-decoration: none;
